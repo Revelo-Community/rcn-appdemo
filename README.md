@@ -12,12 +12,6 @@
 ######  - Clique no botão Code (em verde) do seu repositório e copie a URL existente.
 ######  - Em sua máquina, abra o terminal e execute "git clone https://github.com/suaconta/rcn-appdemo.git"
 
-###### OBS: Pronto! Agora, você pode fazer modificações à vontade no projeto, testá-las e gerenciar seu repositório, sem nenhum contato com o repositório orignal projeto.
+##### Pronto! Agora, você pode fazer modificações à vontade no projeto, testá-las e gerenciar seu repositório, sem nenhum contato com o repositório original projeto.
 
-##### 3) Vamos criar, nesse ponto, um link remoto para o repositório original. Assim, voce poderá manter seu projeto sincronizado com o projeto original.
-######  - 
-
-
-##### Agora, seu controle de versão está pronto!
-
-##### Você poderá fazer todas as modificações que deseja e, então, fazer um pull request para o repositório original.
+##### Após ter feito suas modificações, basta dar um pull request para o repositório original.
